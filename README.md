@@ -13,6 +13,6 @@ requests after cleaning).
 - progress_report.ipynb: data cleaning, visualizations, and ML analyses
 
 ## Team
-- [Name]
-- [Name]
-- [Name]
+- Fernando Ramirez
+- Alan Covarrubias
+- Rishi Shah
